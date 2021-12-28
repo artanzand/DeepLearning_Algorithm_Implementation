@@ -1,4 +1,4 @@
-# Neural Network Coding from Scratch
+# Deep Learning - Algorithm Implementation
 
 My intention in this repo is to build deep Neural Networks in three gradual steps. I will be walking through the steps and math in ipynb files.
 
