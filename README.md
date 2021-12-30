@@ -15,6 +15,9 @@ My intention in this repo is to build deep Neural Networks in three gradual step
 > To implement all the building blocks of a neural network and use the building blocks in the previous part to build a neural network of any architecture. 
 > No regularization will be implemented at this stage.  
 
+
+### Future Improvement
+This implementation of neural network from scratch was just a demonstration of how we could implement the model using the underlying math. The next improvement could be adding regularization to the model. However, the proper way of designing a model is to include them in a Class function to allow for attributes like fit and predict, and to have access to the calculated weights and biases. This could be follow up project to this model development
 <br></br>
 
 ## CONTRIBUTING
